@@ -39,7 +39,7 @@ Lista Ordenada:
 
 🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯
 
-![titulo](https://github-readme-stats.vercel.app/api?username=ewertonveloso)
+![titulo](https://github-readme-stats.vercel.app/api?username=ewertonveloso&show_icons=true&theme=dracula)
 
 
 
